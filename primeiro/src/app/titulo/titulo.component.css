@@ -1,0 +1,12 @@
+#titulo{
+    background-color: rgb(165, 136, 192);
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
